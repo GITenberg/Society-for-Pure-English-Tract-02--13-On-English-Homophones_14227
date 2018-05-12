@@ -1,0 +1,30 @@
+_repo: Society-for-Pure-English-Tract-02--13-On-English-Homophones_14227
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bridges, Robert
+    aliases:
+    - Bridges, Robert Seymour
+    - Bridges, R. (Robert)
+    birthdate: 1844
+    deathdate: 1930
+    gutenberg_agent_id: '5418'
+    url: http://www.gutenberg.org/2009/agents/5418
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Bridges
+description: ''
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14227'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PE'
+- !lcsh 'English language -- Homonyms'
+title: "On English Homophones\r\nSociety for Pure English, Tract 02"
+url: http://www.gutenberg.org/ebooks/14227
